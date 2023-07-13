@@ -1,5 +1,8 @@
-
-
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;
+<a href="mailto:gohildev555@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="<[LinkedInURL](https://www.linkedin.com/in/devang-gohil-2aba83209)>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Hi 👋, I'm Devang Gohil </h1>
 <div align="center">
 <picture> <img align="center" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif" width = 350px></picture>
@@ -45,8 +48,8 @@
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devang000&layout=compact&theme=radical)
 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=devang000&count_private=true&show_icons=true&hide=contribs)
 <b>Note</b>: *Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*     
 </div>
 
