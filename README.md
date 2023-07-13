@@ -49,7 +49,8 @@
 ## Top Languages
 
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=devang000&count_private=true&show_icons=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prem-acharya&layout=compact&theme=radical) 
+
 <b>Note</b>: *Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*     
 </div>
 
