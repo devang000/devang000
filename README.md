@@ -2,8 +2,9 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;
 <a href="mailto:gohildev555@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="<[[LinkedInURL](https://www.linkedin.com/in/devang-gohil-2aba83209)](https://www.linkedin.com/in/devang-gohil-2aba83209)>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Hi 👋, I'm Devang Gohil </h1>
+<a href="<[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devang-gohil-2aba83209)
+>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Hi 👋, I'm Devang Gohil <img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></h1>
 <div align="center">
 <picture> <img align="center" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif" width = 350px></picture>
 </div>
