@@ -1,9 +1,8 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;
 <a href="mailto:gohildev555@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devang-gohil-2aba83209)</a>
-<h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Hi 👋, I'm Devang Gohil <img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></h1>
+<h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Hi 👋, I'm Devang Gohil <img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif" width = 50px></h1>
 <div align="center">
 <picture> <img align="center" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif" width = 350px></picture>
 </div>
@@ -12,7 +11,7 @@
 <h4 align="center">React JS & Node JS  Enthusiastic</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devang000&label=Profile%20views&color=0e75b6&style=flat" alt="devang000" /> </p>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀🛠 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
