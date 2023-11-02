@@ -8,7 +8,7 @@
 </div>
 <h3 align="center">Proficient Web Developer</h3>
 <h4 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h4>
-<h4 align="center">React JS & Node JS  Enthusiastic</h4>
+<h4 align="center">ReactJs, NodeJs & Asp.NET Enthusiastic</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devang000&label=Profile%20views&color=0e75b6&style=flat" alt="devang000" /> </p>
 <h2> 🚀🛠 &nbsp;Some Tools I Have Used and Learned</h2>
